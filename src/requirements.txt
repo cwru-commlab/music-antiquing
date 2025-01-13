@@ -1,0 +1,6 @@
+numpy
+matplotlib.pyplot
+scipy.io
+scipy.signal
+IPython.display
+requests
