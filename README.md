@@ -1,5 +1,21 @@
 # Music Antiquing
 
+**Google Colab: https://colab.research.google.com/github/cwru-commlab/music-antiquing/blob/main/src/Music%20Antiquing.ipynb**
+
+## 📡 Assignment requirements
+ - [X] Open the Jupyter notebook.
+ - [ ] Upload a .wav file of your choice.
+ - [ ] Run the sample code for your .wav file.
+ - [ ] Listen to the recordings. Repeat this process for AM and FM broadcast bands by changing the values for F1 and F2. 
+ - [ ] Change the code below to filter the .WAV file to a gramophone frequency range. (Also, you'll want to change the code that generates the filename to read "gramophone" instead of "telephone."
+ - [ ] Download and save a local copy of your gramophone recording. You'll need it for the next exercise.
+ - [ ] Upload your "gramophone" recording here: https://docs.google.com/forms/d/1ICqKKwbJoknCo_0zhtQuk7iVmR31PHFxYuB6FlPYazU/edit
+ - [ ] Optional: Save a local copy of the Jupyter notebook itself. (In Binder or Google Colab, your changes and created files will not be saved.)
+ - [ ] Under "File" hit "Save and Export Notebook As" and save your file as a PDF.
+ - [ ] Print the PDF and staple it to HW1.
+ - [ ] On the printed copy, highlight the changes you made to the code.
+ - [ ] Annotate the plots. How did the signal change? Does the bandwidth matter? If the signal is going to be bandlimited, do you prefer extending the bass or the treble? Why?
+
 ### Information Table
 
 | Parameter | |
